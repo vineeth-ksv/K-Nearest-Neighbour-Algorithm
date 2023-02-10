@@ -1,6 +1,6 @@
 # K-Nearest-Neighbour-Algorithm
 
-Pridicting the sales prices of houses based on numerous independent variables using KNN algorithm.
+Predicting the sales prices of houses based on numerous independent variables using KNN algorithm.
 
 ## Data Description
 The Boston Housing Dataset
